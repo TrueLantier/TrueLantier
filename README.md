@@ -1,7 +1,6 @@
 # Hola 😀
 ## Soy Angel.
 
-![Uploading Gemini_Generated_Image_6r3am56r3am56r3a.png…]()
 
 
 
