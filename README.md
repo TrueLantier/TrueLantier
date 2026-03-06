@@ -5,23 +5,19 @@
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## My Tech Stack
+## 🛠️ My Tech Stack
 
-![OOP](https://img.shields.io/badge/OOP-Principles-%2300599C?style=for-the-badge&logo=java&logoColor=green)
-![Streams](https://img.shields.io/badge/Java%20Streams-Functional-%23E76F51?style=for-the-badge&logo=java&logoColor=blue)
-![IO](https://img.shields.io/badge/Java%20IO-NIO.2-%23264653?style=for-the-badge&logo=java&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%234CAF50?style=for-the-badge&logo=java&logoColor=white)
+![Streams](https://img.shields.io/badge/Streams-%23007ACC?style=for-the-badge&logo=java&logoColor=white)
+![IO](https://img.shields.io/badge/IO-%233E444B?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-Standard-%234479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Storage-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23FFD600?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/DBMS-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-![Swing](https://img.shields.io/badge/Java%20Swing-GUI-%235382a1?style=for-the-badge&logo=java&logoColor=white)
-![FlatLaf](https://img.shields.io/badge/FlatLaf-Modern%20Look-%234A148C?style=for-the-badge&logo=probot&logoColor=white)
-![MigLayout](https://img.shields.io/badge/MigLayout-Layout%20Manager-%23FFD600?style=for-the-badge&logo=blueprint&logoColor=black)
-
-
-
-
+![Swing](https://img.shields.io/badge/GUI-Swing-%239C27B0?style=for-the-badge&logo=java&logoColor=black)
+![FlatLaf](https://img.shields.io/badge/Modern%20Look-FlatLaf-%234A148C?style=for-the-badge&logo=probot&logoColor=white)
+![MigLayout](https://img.shields.io/badge/Layout%20Manager-MigLayout-%23E10098?style=for-the-badge&logo=blueprint&logoColor=black)
 
 Soy un apasionado por construir soluciones robustas y escalables. Actualmente me enfoco en perfeccionar mis habilidades en el ecosistema de Spring y arquitecturas limpias.
 
@@ -30,9 +26,6 @@ Soy un apasionado por construir soluciones robustas y escalables. Actualmente me
 - 💬 Pregúntame sobre: Java, Programación Orientada a Objetos y Streams.
 
 
-
-## 📊 Estadísticas
-![Estadísticas de Angel](https://github-readme-stats.vercel.app/api?username=TrueLantier&show_icons=true&theme=tokyonight)
 
 <!--
 **TrueLantier/TrueLantier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,4 +40,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+
+
+
 -->
