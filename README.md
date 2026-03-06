@@ -1,11 +1,11 @@
-# Hola 😀
-## Soy Angel 👋
+# ¡Hola! Soy Angel Eduardo 👋
+### Desarrollador Java Junior | Entusiasta del Backend
 
 ![JavaImagen](https://github.com/TrueLantier/Master-File-Manager/blob/master/src/Laboratorio/SalaUno/Gemini_Generated_Image_6r3am56r3am56r3a.png)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Tecnología
+## My Tech Stack
 
 ![OOP](https://img.shields.io/badge/OOP-Principles-%2300599C?style=for-the-badge&logo=java&logoColor=green)
 ![Streams](https://img.shields.io/badge/Java%20Streams-Functional-%23E76F51?style=for-the-badge&logo=java&logoColor=blue)
@@ -18,6 +18,22 @@ Tecnología
 ![Swing](https://img.shields.io/badge/Java%20Swing-GUI-%235382a1?style=for-the-badge&logo=java&logoColor=white)
 ![FlatLaf](https://img.shields.io/badge/FlatLaf-Modern%20Look-%234A148C?style=for-the-badge&logo=probot&logoColor=white)
 ![MigLayout](https://img.shields.io/badge/MigLayout-Layout%20Manager-%23FFD600?style=for-the-badge&logo=blueprint&logoColor=black)
+
+
+
+
+
+Soy un apasionado por construir soluciones robustas y escalables. Actualmente me enfoco en perfeccionar mis habilidades en el ecosistema de Spring y arquitecturas limpias.
+
+- 🔭 Actualmente trabajando en: [File Manager]
+- 🌱 Aprendiendo: Patrones de Diseño, profundizando en Swing.
+- 💬 Pregúntame sobre: Java, Programación Orientada a Objetos y Streams.
+
+
+
+## 📊 Estadísticas
+![Estadísticas de Angel](https://github-readme-stats.vercel.app/api?username=TrueLantier&show_icons=true&theme=tokyonight)
+
 <!--
 **TrueLantier/TrueLantier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
