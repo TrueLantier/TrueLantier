@@ -19,7 +19,8 @@
 ### 🖥️ Database & Desktop Stack
 
 ![SQL](https://img.shields.io/badge/SQL-%23FFD600?style=for-the-badge&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/DBMS-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23E48E00?style=for-the-badge&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBEAVER-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![pgAdmin4](https://img.shields.io/badge/pgAdmin4-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
