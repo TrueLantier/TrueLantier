@@ -11,6 +11,7 @@
 ![OOP](https://img.shields.io/badge/OOP-%234CAF50?style=for-the-badge&logo=java&logoColor=white)
 ![Streams](https://img.shields.io/badge/Streams-%23007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![IO](https://img.shields.io/badge/IO-%233E444B?style=for-the-badge&logo=java&logoColor=white)
+![SOLID](https://img.shields.io/badge/PRINCIPLES-SOLID-%232C3E50?style=for-the-badge&logo=clean-code&logoColor=white)
 
 ![Git](https://img.shields.io/badge/GIT-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
