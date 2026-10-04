@@ -17,7 +17,6 @@
 ![Ubuntu](https://img.shields.io/badge/UBUNTU-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Bash](https://img.shields.io/badge/BASH-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat-square&logo=obsidian&logoColor=white)
 
 ### 🖥️ Database & Desktop Stack
 
