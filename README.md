@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/TrueLantier/Master-File-Manager/master/src/laboratorio/salauno/Gemini_Generated_Image_6r3am56r3am56r3a.png" alt="Java" width="500" />
+![JavaImagen](https://github.com/TrueLantier/Master-File-Manager/blob/master/src/laboratorio/salauno/Gemini_Generated_Image_6r3am56r3am56r3a.png)
 
 </div>
 
@@ -61,7 +61,6 @@ Soy alguien que le encanta todo el ecosistema de la JVM, y admirador de los soft
 ![Java Backend Developer](https://img.shields.io/badge/Java-Backend%20Developer-yellow)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/TrueLantier/TrueLantier?color=yellow&style=flat-square)
-![JavaImagen](https://github.com/TrueLantier/Master-File-Manager/blob/master/src/laboratorio/salauno/Gemini_Generated_Image_6r3am56r3am56r3a.png)
 
 Here are some ideas to get you started:
 
@@ -75,6 +74,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+<img src="https://raw.githubusercontent.com/TrueLantier/Master-File-Manager/master/src/laboratorio/salauno/Gemini_Generated_Image_6r3am56r3am56r3a.png" alt="Java" width="500" />
 
 
 
