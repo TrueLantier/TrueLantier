@@ -6,9 +6,10 @@
 
 ## 🛠️ My Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD600?style=for-the-badge&logo=openjdk&logoColor=black)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%234CAF50?style=for-the-badge&logo=java&logoColor=white)
+![Threads](https://img.shields.io/badge/Threads-FFD600?style=for-the-badge&logoColor=black)
 ![Streams](https://img.shields.io/badge/Streams-%23007ACC?style=for-the-badge&logo=java&logoColor=white)
 ![IO](https://img.shields.io/badge/IO-%233E444B?style=for-the-badge&logo=java&logoColor=white)
 ![SOLID](https://img.shields.io/badge/PRINCIPLES-SOLID-%232C3E50?style=for-the-badge&logo=clean-code&logoColor=white)
@@ -33,13 +34,16 @@
 Soy alguien que le encanta todo el ecosistema de la JVM, y admirador de los softwares de JetBrains. Interesado en Spring y desarrollo móvil con Kotlin.
 
 - 🔭 Actualmente trabajando en: [File Manager]
-- 🌱 Aprendiendo: Patrones de Diseño, profundizando en Swing.
-- 💬 Pregúntame sobre: Java, Programación Orientada a Objetos y Streams.
+- 🌱 Aprendiendo: Lenguaje C, profundizando en Bash.
+- 💬 Pregúntame sobre: Java, Programación Orientada a Objetos y SQL.
 
 
 
 <!--
 **TrueLantier/TrueLantier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Java Backend Developer](https://img.shields.io/badge/Java-Backend%20Developer-yellow)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Stars](https://img.shields.io/github/stars/TrueLantier/TrueLantier?color=yellow&style=flat-square)
 
 Here are some ideas to get you started:
 
