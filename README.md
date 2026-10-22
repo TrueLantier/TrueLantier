@@ -1,8 +1,16 @@
+<div align="center">
+
 # ¡Hola! Soy Angel Eduardo 👋
-### Desarrollador Java Junior | Entusiasta del Backend
 
-![JavaImagen](https://github.com/TrueLantier/Master-File-Manager/blob/master/src/laboratorio/salauno/Gemini_Generated_Image_6r3am56r3am56r3a.png)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFD600&center=true&vCenter=true&width=620&lines=Desarrollador+Java;Entusiasta+del+Backend;Threads+%26+Concurrencia;Pr%C3%B3ximo+destino%3A+Kotlin+%F0%9F%9A%80" alt="Typing SVG" />
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/TrueLantier/Master-File-Manager/master/src/laboratorio/salauno/Gemini_Generated_Image_6r3am56r3am56r3a.png" alt="Java" width="500" />
+
+</div>
+
+<br/>
 
 ## 🛠️ My Tech Stack
 
@@ -21,7 +29,7 @@
 
 ### 🖥️ Database & Desktop Stack
 
-![SQL](https://img.shields.io/badge/SQL-%23FFD600?style=for-the-badge&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23FFD600?style=for-the-badge&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-%23E48E00?style=for-the-badge&logo=mysql&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBEAVER-%23382923?style=for-the-badge&logo=dbeaver&logoColor=white)
@@ -31,11 +39,20 @@
 ![FlatLaf](https://img.shields.io/badge/Modern%20Look-FlatLaf-%234A148C?style=for-the-badge&logo=probot&logoColor=white)
 ![MigLayout](https://img.shields.io/badge/Layout%20Manager-MigLayout-%23E10098?style=for-the-badge&logo=blueprint&logoColor=black)
 
+## 👨‍💻 Sobre mí
+
 Soy alguien que le encanta todo el ecosistema de la JVM, y admirador de los softwares de JetBrains. Interesado en Spring y desarrollo móvil con Kotlin.
 
-- 🔭 Actualmente trabajando en: [File Manager]
+- 🔭 Actualmente trabajando en: [File Manager](https://github.com/TrueLantier/Master-File-Manager)
 - 🌱 Aprendiendo: Lenguaje C, profundizando en Bash.
 - 💬 Pregúntame sobre: Java, Programación Orientada a Objetos y SQL.
+
+## 🐍 Mi actividad
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TrueLantier/TrueLantier/output/github-snake-dark.svg" />
+  <img alt="Snake de contribuciones" src="https://raw.githubusercontent.com/TrueLantier/TrueLantier/output/github-snake.svg" />
+</picture>
 
 
 
@@ -44,6 +61,7 @@ Soy alguien que le encanta todo el ecosistema de la JVM, y admirador de los soft
 ![Java Backend Developer](https://img.shields.io/badge/Java-Backend%20Developer-yellow)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/TrueLantier/TrueLantier?color=yellow&style=flat-square)
+![JavaImagen](https://github.com/TrueLantier/Master-File-Manager/blob/master/src/laboratorio/salauno/Gemini_Generated_Image_6r3am56r3am56r3a.png)
 
 Here are some ideas to get you started:
 
